@@ -1,0 +1,9 @@
+pedalboard
+numpy
+sounddevice
+customtkinter
+PyQt6
+pyperclip
+psutil
+bleak
+firebase-admin
